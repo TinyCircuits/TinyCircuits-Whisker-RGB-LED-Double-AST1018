@@ -1,6 +1,7 @@
 /*********************************************************************
+ * TinyCircuits RGB Wireling Example Program
  * This example shows how to program an RGB LED Wireling. The default 
- * program when uploaded will cycle every LED attached through the 
+ * program when uploaded will cycle NUM_LEDS attached through the 
  * RGB colors at half brightness.
  * 
  * Written by: Laveréna Wienclaw for TinyCircuits
